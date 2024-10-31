@@ -15,3 +15,5 @@ npm install
 
 npm run dev
 ```
+
+Deplyment: https://web-rtc-wine.vercel.app/
