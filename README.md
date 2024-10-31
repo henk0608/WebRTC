@@ -16,4 +16,4 @@ npm install
 npm run dev
 ```
 
-Deplyment: https://web-rtc-wine.vercel.app/
+Deployment: https://web-rtc-wine.vercel.app/
